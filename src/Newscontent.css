@@ -1,0 +1,15 @@
+.card-title:hover{
+    cursor: pointer;
+    color: blue;
+}
+.card-text:hover{
+    cursor: pointer;
+    color: red;
+}
+.btn:hover{
+    background-color: green;
+}
+.card:hover{
+    transform: translateY(-9px);
+    background-color:rgb(252, 243, 243) ;
+}
